@@ -1,3 +1,2 @@
-# bcbs-insurance-form
-
-Automates the BCBS Blue Cross Complete and Meridian Medicaid form creation for insurance claims.
+# medicare-medicaid-insurance-forms
+Automates Medicaid/Medicare form creation for internal billing department.
